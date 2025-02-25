@@ -14,6 +14,8 @@
   <li> 🚩 Interested in data engineering and analysis with Python and AWS </li>
 </ul>
 
+<br>
+
 <h2>Technologies</h2>
 <p align='center'>
 </p>
@@ -37,6 +39,8 @@
   <img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" alt="Nginx" title="Nginx"/>&nbsp;
 </div>
 
+<br>
+
 <!---
 <h2>Stats</h2>
 <p align='center'>
@@ -52,7 +56,6 @@
   </tr>
 </table>
 --->
-
 <h2>Contact</h2>
 <p align='center'>
 </p>
