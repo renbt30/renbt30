@@ -41,5 +41,7 @@
 
 <!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renbt30&layout=compact) --->
 
-<h3>Contact</h3>
+<h2>Contact</h2>
+<p align='center'>
+</p>
 <p>If you are interested in contacting me, you can send me a message to my email address <a href="mailto:renbtl350@gmail.com" target="_blank">renbtl350@gmail.com</a> </p>
