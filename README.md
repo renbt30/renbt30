@@ -12,6 +12,7 @@
   <li> 💬 I worked in GUI creation, API development and maintenance, database and deployment </li>
   <li> 💡 I'm looking to collaborate on new projects that allow me to have new experiences </li>
   <li> 🚩 Interested in data engineering and analysis with Python and AWS </li>
+  <li> 📫 If you are interested in contacting me, you can send a message to my e-mail address: <a href="mailto:renbtl350@gmail.com" target="_blank">renbtl350@gmail.com</a></li>
 </ul>
 
 <h2>Technologies</h2>
@@ -37,11 +38,16 @@
   <img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" alt="Nginx" title="Nginx"/>&nbsp;
 </div>
 
-<!--- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=renbt30&show_icons=true&theme=radical) --->
-
-<!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renbt30&layout=compact) --->
-
-<h2>Contact</h2>
+<h2>Stats</h2>
 <p align='center'>
 </p>
-<p>If you are interested in contacting me, you can send me a message to my email address <a href="mailto:renbtl350@gmail.com" target="_blank">renbtl350@gmail.com</a> </p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renbt30&layout=compact" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=renbt30&show_icons=true&theme=radical" />
+    </td>
+  </tr>
+</table>
