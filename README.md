@@ -53,7 +53,7 @@
 </table>
 --->
 
-<h2>About me</h2>
+<h2>Contact</h2>
 <p align='center'>
 </p>
 📫 If you are interested in contacting me, you can send me a message to my e-mail address: <a href="mailto:renbtl350@gmail.com" target="_blank">renbtl350@gmail.com</a>
