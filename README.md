@@ -12,7 +12,6 @@
   <li> 💬 I worked in GUI creation, API development and maintenance, database and deployment </li>
   <li> 💡 I'm looking to collaborate on new projects that allow me to have new experiences </li>
   <li> 🚩 Interested in data engineering and analysis with Python and AWS </li>
-  <li> 📫 If you are interested in contacting me, you can send a message to my e-mail address: <a href="mailto:renbtl350@gmail.com" target="_blank">renbtl350@gmail.com</a></li>
 </ul>
 
 <h2>Technologies</h2>
@@ -38,6 +37,7 @@
   <img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" alt="Nginx" title="Nginx"/>&nbsp;
 </div>
 
+<!---
 <h2>Stats</h2>
 <p align='center'>
 </p>
@@ -51,3 +51,9 @@
     </td>
   </tr>
 </table>
+--->
+
+<h2>About me</h2>
+<p align='center'>
+</p>
+📫 If you are interested in contacting me, you can send me a message to my e-mail address: <a href="mailto:renbtl350@gmail.com" target="_blank">renbtl350@gmail.com</a>
